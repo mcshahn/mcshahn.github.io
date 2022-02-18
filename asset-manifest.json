@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7da34c1.css",
+    "main.js": "/static/js/main.f189b71e.js",
+    "static/media/video.mp4": "/static/media/video.446f671636a2ffa2f3a0.mp4",
+    "static/media/MichelleAhnPhoto.png": "/static/media/MichelleAhnPhoto.449f1cd4238a61484dea.png",
+    "static/media/png-2.png": "/static/media/png-2.1c7dffd49834319a0381.png",
+    "static/media/png-1.png": "/static/media/png-1.0e54eb25ad6078337822.png",
+    "index.html": "/index.html",
+    "main.d7da34c1.css.map": "/static/css/main.d7da34c1.css.map",
+    "main.f189b71e.js.map": "/static/js/main.f189b71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.f189b71e.js"
+  ]
+}
